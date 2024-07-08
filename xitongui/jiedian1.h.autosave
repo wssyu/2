@@ -1,0 +1,29 @@
+#ifndef JIEDIAN1_H
+#define JIEDIAN1_H
+#include <QWidget>
+
+namespace Ui {
+class jiedian1;
+}
+
+class jiedian1 : public QWidget
+{
+    Q_OBJECT
+public:
+    explicit jiedian1(QWidget *parent = nullptr);
+    ~jiedian1();
+    
+    
+    
+private:
+     Ui::jiedian1 *ui;   
+    
+    
+    
+};
+
+
+
+
+
+#endif // JIEDIAN1_H

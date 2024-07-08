@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+        <file>串口.png</file>
+        <file>打开.png</file>
+        <file>关闭.png</file>
+        <file>停止.png</file>
+        <file>开始.png</file>
+        <file>stop it.png</file>
+        <file>123.jpg</file>
+        <file>321.jpg</file>
+        <file>ddl.png</file>
+        <file>ph.png</file>
+        <file>sw.png</file>
+        <file>zd.png</file>
+        <file>dl.png</file>
+        <file>pct.png</file>
+        <file>2/ddl2.png</file>
+        <file>2/dl2.png</file>
+        <file>2/pH2.png</file>
+        <file>2/sw2.png</file>
+        <file>2/zd2.png</file>
+        <file>3/ddl3.png</file>
+        <file>3/dl3.png</file>
+        <file>3/pH3.png</file>
+        <file>3/sw3.png</file>
+        <file>3/zd3.png</file>
+        <file>loongson.png</file>
+        <file>bj.png</file>
+        <file>ls2.png</file>
+        <file>tb2.png</file>
+        <file>1/fanhui.png</file>
+        <file>1/qingchu.png</file>
+        <file>1/save.png</file>
+        <file>1/xieru.png</file>
+        <file>1/app.png</file>
+        <file>1/stop.png</file>
+        <file>1/huizhi.png</file>
+        <file>1/zantinghuizhi.png</file>
+        <file>4/baocun.png</file>
+        <file>4/fanhui1.png</file>
+        <file>4/xierushujuku.png</file>
+        <file>4/qc.png</file>
+        <file>4/up.png</file>
+        <file>4/down.png</file>
+        <file>4/down1.png</file>
+        <file>4/up3.png</file>
+        <file>4/yun.png</file>
+    </qresource>
+</RCC>

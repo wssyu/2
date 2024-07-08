@@ -1,0 +1,23 @@
+#include "jiedian1.h"
+#include "ui_jiedian1.h"
+#include "widget.h"
+
+//jiedian1::jiedian1(QWidget *parent): 
+//    QWidget(parent), 
+//    ui(new ui::jiedian1)
+//{
+//    ui->setupUi(this);
+
+//}
+Widget::Widget(QWidget *parent)
+    : QWidget(parent)
+    , ui(new Ui::Widget)
+{
+    
+    
+}
+
+jiedian1::~jiedian1()
+{
+    delete ui;
+}
